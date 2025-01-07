@@ -24,7 +24,6 @@ dependencies:
     git:
       url: https://github.com/EduardoM-GO/video_thumbnail.git
 
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
